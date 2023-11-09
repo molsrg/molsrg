@@ -9,9 +9,11 @@
 
 Я начинающий веб-разработчик. Мой путь в нем начался со сдачи ЕГЭ 2,5 года назад. Мне понравилась информатика, и я начал увлекаться программированием. Сначала я писал на Python, затем перешёл на C и C++. Я поступил в престижный университет России на специальность «Прикладная информатика». Сейчас я учусь на втором курсе. Я изучаю веб-программирование, алгоритмы и немного науку о данных.
 
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 - :zap: Учусь на втором курсе технического университета.
 

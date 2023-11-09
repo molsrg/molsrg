@@ -21,15 +21,20 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Связаться со мной:
 
-  <div id="badges">
+  <div id="badges" >
+    <a href="mailto:molsrg.35@gmail.com" target="_blank">
+      <img src="https://github.com/molsrg/molsrg/assets/139114308/2dbcab21-3d88-4466-9cfb-e0f3a7876e7f" width="40" height="40" alt="Gmail"/>
+    </a>&nbsp;
     <a href="https://t.me/molsrg" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
+      <img src="https://github.com/molsrg/molsrg/assets/139114308/eadae9b2-4cbb-4104-beb8-b06130fd8981" width="40" height="40" alt="Telegram"/>
+    </a>&nbsp;
     <a href="https://vk.com/molsrg" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://github.com/molsrg/molsrg/assets/139114308/e6e428da-0bc3-4a62-a794-a4f98963df7c" width="40" height="40" alt="VK"/>
     </a>
+
+
   </div>
 
 ---

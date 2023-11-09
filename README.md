@@ -9,17 +9,56 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/molsrg/molsrg/output/github-contribution-grid-snake.svg">
 </picture>
 
-### :man_technologist: Обо мне:
+<h2>:man_technologist: Обо мне:</h2>
+  <h3>Я начинающий веб-разработчик. Мой путь в нем начался со сдачи ЕГЭ 2,5 года назад. Мне понравилась информатика, и я начал увлекаться программированием. Сначала я писал на Python, затем перешёл на C и C++. Я поступил в престижный университет России на специальность «Прикладная информатика». Сейчас я учусь на втором курсе. Я изучаю веб-программирование, алгоритмы и немного науку о данных.</h3>  
+  
+  
+  - :zap: Учусь на втором курсе технического университета
+  
+  - :zap: Увлекаюсь спортом
+  
+  - :zap: Прошёл курсы от Яндекса
+  
+  ---
 
-Я начинающий веб-разработчик. Мой путь в нем начался со сдачи ЕГЭ 2,5 года назад. Мне понравилась информатика, и я начал увлекаться программированием. Сначала я писал на Python, затем перешёл на C и C++. Я поступил в престижный университет России на специальность «Прикладная информатика». Сейчас я учусь на втором курсе. Я изучаю веб-программирование, алгоритмы и немного науку о данных.
 
-- :zap: Учусь на втором курсе технического университета.
 
-- :zap: 
+<h2>Frontend Skills</h2>
+<p align="left"> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,tailwind,github,sass)](https://skillicons.dev)
 
-- :zap: прошёл курсы от Яндекса.
+</p>
 
----
+<h2>Backend Skills</h2>
+<p align="left"> 
+<a href="https://nodejs.org/en/" rel="nofollow"><img align="left" alt="NodeJS" width="40" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" style="max-width: 100%;"></a>
+  
+</p>
+
+<br>
+<br>
+
+<h2>Other</h2>
+<p align="left">
+  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+</p>
+
+
+<h2>Studying</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwind)](https://skillicons.dev)
+
+<h2>Contacts</h2>
+
+<a href="https://t.me/mlsrg" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
+
+
+
+
+
+
 
 ### 🤝 Связаться со мной:
 
@@ -33,12 +72,12 @@
 <!--     <a href="https://vk.com/molsrg" target="_blank">
       <img src="https://github.com/molsrg/molsrg/assets/139114308/e6e428da-0bc3-4a62-a794-a4f98963df7c" width="40" height="40" alt="VK"/>
     </a>&nbsp; -->
-    <a href="https://t.me/mlsrg" target="_blank">
+<!--     <a href="https://t.me/mlsrg" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>&nbsp;
     <a href="https://vk.com/molsrg" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>&nbsp;
+    </a>&nbsp; -->
   </div>
 
 ---

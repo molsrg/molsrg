@@ -3,17 +3,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of applied computer science who loves programming</h3>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/molsrg/molsrg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/molsrg/molsrg/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/molsrg/molsrg/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### :man_technologist: Обо мне:
 
 Я начинающий веб-разработчик. Мой путь в нем начался со сдачи ЕГЭ 2,5 года назад. Мне понравилась информатика, и я начал увлекаться программированием. Сначала я писал на Python, затем перешёл на C и C++. Я поступил в престижный университет России на специальность «Прикладная информатика». Сейчас я учусь на втором курсе. Я изучаю веб-программирование, алгоритмы и немного науку о данных.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 - :zap: Учусь на втором курсе технического университета.
 

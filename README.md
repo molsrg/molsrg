@@ -10,7 +10,7 @@
 </picture>
 
 <h2>:man_technologist: Обо мне:</h2>
-  <h3>Я начинающий веб-разработчик. Мой путь в нем начался со сдачи ЕГЭ 2,5 года назад. Мне понравилась информатика, и я начал увлекаться программированием. Сначала я писал на Python, затем перешёл на C и C++. Я поступил в престижный университет России на специальность «Прикладная информатика». Сейчас я учусь на втором курсе. Я изучаю веб-программирование, алгоритмы и немного науку о данных.</h3>  
+  <h3>Я продолжающий веб-разработчик. Мой путь в программировании начался со сдачи ЕГЭ 2,5 года назад. Мне понравилась информатика, и я начал увлекаться программированием. Сначала я писал на Python, затем перешёл на C и C++. Поступил в престижный университет России на специальность «Прикладная информатика». Сейчас я учусь на втором курсе. Изучаю веб-программирование, алгоритмы и немного data science.</h3>  
   
   
   - :zap: Учусь на втором курсе технического университета
@@ -18,6 +18,7 @@
   - :zap: Увлекаюсь спортом
   
   - :zap: Прошёл курсы от Яндекса
+
   
   ---
 
@@ -54,14 +55,6 @@
 
 <a href="https://t.me/mlsrg" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
 
-
-
-
-
-
-
-### 🤝 Связаться со мной:
-
   <div id="badges" >
 <!--     <a href="mailto:molsrg.35@gmail.com" target="_blank">
       <img src="https://github.com/molsrg/molsrg/assets/139114308/2dbcab21-3d88-4466-9cfb-e0f3a7876e7f" width="40" height="40" alt="Gmail"/>
@@ -79,26 +72,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>&nbsp; -->
   </div>
-
----
-
-### 💻 Технологии:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40"/>&nbsp;
-
-</div>
-
-
+  
 ---
 
 ### 💻 Codewars:

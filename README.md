@@ -9,17 +9,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/molsrg/molsrg/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2>:man_technologist: Обо мне:</h2>
-  <h3>Я продолжающий веб-разработчик. Мой путь в программировании начался со сдачи ЕГЭ 2,5 года назад. Мне понравилась информатика, и я начал увлекаться программированием. Сначала я писал на Python, затем перешёл на C и C++. Поступил в престижный университет России на специальность «Прикладная информатика». Сейчас я учусь на втором курсе. Изучаю веб-программирование, алгоритмы и немного data science.</h3>  
+<h2> About Me:</h2>   
+  <h3>I'm a continuing web developer. My journey in programming began with passing the Unified State Exam 2.5 years ago. I liked computer science and began to get interested in programming. At first I wrote in Python, then switched to C and C++. He entered a prestigious university in Russia with a degree in Applied Informatics. Now I am a second year student. I study web programming, algorithms and a little data science.</h3>  
   
   
-  - :zap: Учусь на втором курсе технического университета
+  - :zap: A second year student at a technical university.
   
-  - :zap: Увлекаюсь спортом
+  - :zap: Interested in sports and chess.
   
-  - :zap: Прошёл курсы от Яндекса
+  - :zap: Took courses from Yandex. 
 
-  
   ---
 
 

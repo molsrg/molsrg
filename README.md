@@ -10,7 +10,7 @@
 </picture>
 
 <h2> About Me:</h2>   
-  <h3>I'm a continuing web developer. My journey in programming began with passing the Unified State Exam 2.5 years ago. I liked computer science and began to get interested in programming. At first I wrote in Python, then switched to C and C++. He entered a prestigious university in Russia with a degree in Applied Informatics. Now I am a second year student. I study web programming, algorithms and a little data science.</h3>  
+  <h3 align="justify">I'm a continuing web developer. My journey in programming began with passing the Unified State Exam 2.5 years ago. I liked computer science and began to get interested in programming. At first I wrote in Python, then switched to C and C++. He entered a prestigious university in Russia with a degree in Applied Informatics. Now I am a second year student. I study web programming, algorithms and a little data science.</h3>  
   
   
   - :zap: A second year student at a technical university.

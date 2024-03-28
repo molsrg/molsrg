@@ -52,7 +52,7 @@
 
 <h2>Contacts</h2>
 
-<a href="https://t.me/mlsrg" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
+<a href="https://t.me/molsrg" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
 
   <div id="badges" >
 <!--     <a href="mailto:molsrg.35@gmail.com" target="_blank">

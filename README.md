@@ -9,70 +9,42 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/molsrg/molsrg/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2> About Me:</h2>   
+
+<h2> About Me</h2>   
   <h3 align="justify">I'm a continuing web developer. My journey in programming began with passing the Unified State Exam 2.5 years ago. I liked computer science and began to get interested in programming. At first I wrote in Python, then switched to C and C++. He entered a prestigious university in Russia with a degree in Applied Informatics. Now I am a second year student. I study web programming, algorithms and a little data science.</h3>  
   
   
-  - :zap: A second year student at a technical university.
+  - :zap: A student at a technical university.
   
   - :zap: Interested in sports and chess.
   
   - :zap: Took courses from Yandex. 
 
-  ---
+## Technical Stack
+
+### Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+### Libraries, Frameworks, and Technologies
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxtjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Primevue](https://img.shields.io/badge/Primevue-8D42F2?style=for-the-badge&logo=primevue&logoColor=white)](https://www.primefaces.org/primevue/)
+[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Pinia](https://img.shields.io/badge/Pinia-42B883?style=for-the-badge&logo=vuex&logoColor=white)](https://pinia.vuejs.org/)
+[![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+### IDEs 
+[![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 
 
-
-<h2>Frontend Skills</h2>
-<p align="left"> 
- 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,tailwind,github,sass)](https://skillicons.dev)
-
-</p>
-
-<h2>Backend Skills</h2>
-<p align="left"> 
-<a href="https://nodejs.org/en/" rel="nofollow"><img align="left" alt="NodeJS" width="40" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" style="max-width: 100%;"></a>
-  
-</p>
-
-<br>
-<br>
-
-<h2>Other</h2>
-<p align="left">
-  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
-</p>
-
-
-<h2>Studying</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,tailwind)](https://skillicons.dev)
-
-<h2>Contacts</h2>
-
-<a href="https://t.me/molsrg" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
-
-  <div id="badges" >
-<!--     <a href="mailto:molsrg.35@gmail.com" target="_blank">
-      <img src="https://github.com/molsrg/molsrg/assets/139114308/2dbcab21-3d88-4466-9cfb-e0f3a7876e7f" width="40" height="40" alt="Gmail"/>
-    </a>&nbsp; -->
-<!--     <a href="https://t.me/mlsrg" target="_blank">
-      <img src="https://github.com/molsrg/molsrg/assets/139114308/eadae9b2-4cbb-4104-beb8-b06130fd8981" width="40" height="40" alt="Telegram"/>
-    </a>&nbsp; -->
-<!--     <a href="https://vk.com/molsrg" target="_blank">
-      <img src="https://github.com/molsrg/molsrg/assets/139114308/e6e428da-0bc3-4a62-a794-a4f98963df7c" width="40" height="40" alt="VK"/>
-    </a>&nbsp; -->
-<!--     <a href="https://t.me/mlsrg" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>&nbsp;
-    <a href="https://vk.com/molsrg" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>&nbsp; -->
-  </div>
-  
----
 
 ### 💻 Codewars:
 

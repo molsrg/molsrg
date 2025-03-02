@@ -62,7 +62,7 @@ const aboutMe = {
 
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=molsrg&theme=dark" alt="webDev's Github stats" />
 
-<br/>
+<hr/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=molsrg&show_icons=true&theme=dark" alt="webDev's Github stats" />
 

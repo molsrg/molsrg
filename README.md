@@ -59,6 +59,8 @@ const aboutMe = {
 ```
   
 ### ⚙️ GitHub Stats:
-   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=molsrg&theme=dark" alt="webDev's Github stats" />
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=molsrg&show_icons=true&theme=dark" alt="webDev's Github stats" />
-
+  <div style="display: flex; gap: 16px;">
+     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=molsrg&theme=dark" alt="webDev's Github stats" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=molsrg&show_icons=true&theme=dark" alt="webDev's Github stats" />
+  </div>  
+  

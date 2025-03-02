@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/molsrg" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of applied computer science who loves programming</h3>
 
@@ -57,8 +57,8 @@ const aboutMe = {
   ],
 };
 ```
-  
-### ⚙️ GitHub Stats:
 
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=molsrg&theme=dark" alt="webDev's Github stats" />
-  
+### ⚙️ GitHub Stats
+![Molsrg's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=molsrg&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=molsrg&show_icons=true&theme=dark)
+

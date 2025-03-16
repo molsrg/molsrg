@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://t.me/molsrg" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student of applied computer science who loves programming</h3>
+<h3 align="center">Developer with a love of programming</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/molsrg/molsrg/output/github-contribution-grid-snake-dark.svg">
@@ -58,7 +58,17 @@ const aboutMe = {
 };
 ```
 
-### ⚙️ GitHub Stats
-![Molsrg's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=molsrg&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api?username=molsrg&show_icons=true&theme=dark)
+<h2>Languages and Tools</h2>   
+
+![JavaScript](https://img.shields.io/badge/-JavaSCript-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-090909?style=for-the-badge&logo=Nuxt)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-090909?style=for-the-badge&logo=Tailwind-CSS)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-090909?style=for-the-badge&logo=UnoCSS)
+![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint)
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+
+
 

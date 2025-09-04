@@ -70,5 +70,5 @@ const aboutMe = {
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=molsrg&theme=dark&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
